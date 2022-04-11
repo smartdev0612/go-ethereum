@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	url = "https://kovan.infura.io/v3/4badaf12963a4dd28d67d5a57e71a75f"
+	url = "https://kovan.infura.io/v3/project_id"
 )
 
 func main() {
